@@ -6,7 +6,7 @@ A sleek and functional **Spotify Clone** built using **HTML**, **CSS**, and **Ja
 
 ## 🔗 Live Demo
 
-[🚀 View Demo](#)  
+[🚀 View Demo](https://spotify-clone-mocha-theta.vercel.app/)  
 
 ---
 
